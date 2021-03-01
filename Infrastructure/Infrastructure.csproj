@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+	  <RootNamespace>PaycheckBudgeter.Infrastructure</RootNamespace>
+	  <AssemblyName>PaycheckBudgeter.Infrastructure</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\" />
+    <Folder Include="Identity\" />
+    <Folder Include="Services\" />
+    <Folder Include="Persistence\" />
+  </ItemGroup>
+
+</Project>
